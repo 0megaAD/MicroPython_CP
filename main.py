@@ -13,7 +13,7 @@ from umqtt.simple import MQTTClient
 WIFI_SSID = "Wokwi-GUEST"
 WIFI_PASSWORD = ""
  
-API_KEY = "954ccdc5aaf73e284d9313db856cad5c"
+API_KEY = ""
  
 CITY = "Sao Paulo"
 COUNTRY = "BR"
